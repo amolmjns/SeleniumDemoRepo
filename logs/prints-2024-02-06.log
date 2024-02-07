@@ -1,0 +1,148 @@
+16:26:15.227 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+16:26:17.073 [main] DEBUG tests.LoginTest - Application got opened
+16:26:17.845 [main] DEBUG tests.LoginTest - Username entered
+16:26:18.959 [main] DEBUG tests.LoginTest - Password entered
+16:26:19.140 [main] DEBUG tests.LoginTest - login button click 
+16:26:19.981 [main] DEBUG tests.LoginTest - Test is Successful
+16:26:20.570 [main] DEBUG tests.LoginTest - Browser getting close
+16:26:23.044 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+16:26:24.929 [main] DEBUG tests.LoginTest - Application got opened
+16:26:25.471 [main] DEBUG tests.LoginTest - Username entered
+16:26:26.338 [main] DEBUG tests.LoginTest - Password entered
+16:26:26.523 [main] DEBUG tests.LoginTest - login button click 
+16:26:32.138 [main] DEBUG tests.LoginTest - Method get failed
+16:26:32.730 [main] DEBUG tests.LoginTest - Browser getting close
+17:00:20.455 [TestNG-tests-4] DEBUG tests.LoginTest - Chrome Browser got launched
+17:00:21.504 [TestNG-tests-4] DEBUG tests.LoginTest - Application got opened
+17:00:23.527 [TestNG-tests-4] DEBUG tests.LoginTest - Username entered
+17:00:23.956 [TestNG-tests-4] DEBUG tests.LoginTest - Password entered
+17:00:24.164 [TestNG-tests-4] DEBUG tests.LoginTest - login button click 
+17:00:25.253 [TestNG-tests-4] DEBUG tests.LoginTest - Test is Successful
+17:00:26.692 [TestNG-tests-4] DEBUG tests.LoginTest - Browser getting close
+17:00:29.558 [TestNG-tests-4] DEBUG tests.LoginTest - Chrome Browser got launched
+17:00:31.347 [TestNG-tests-4] DEBUG tests.LoginTest - Application got opened
+17:00:31.848 [TestNG-tests-4] DEBUG tests.LoginTest - Username entered
+17:00:32.878 [TestNG-tests-4] DEBUG tests.LoginTest - Password entered
+17:00:33.009 [TestNG-tests-4] DEBUG tests.LoginTest - login button click 
+17:00:38.678 [TestNG-tests-4] DEBUG tests.LoginTest - Method get failed
+17:00:39.288 [TestNG-tests-4] DEBUG tests.LoginTest - Browser getting close
+23:45:54.591 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+23:45:56.969 [main] DEBUG tests.LoginTest - Application got opened
+23:45:57.651 [main] DEBUG tests.LoginTest - Username entered
+23:45:58.505 [main] DEBUG tests.LoginTest - Password entered
+23:45:58.631 [main] DEBUG tests.LoginTest - login button click 
+23:45:59.673 [main] DEBUG tests.LoginTest - Test is Successful
+23:46:00.170 [main] DEBUG tests.LoginTest - Browser getting close
+23:46:02.449 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+23:46:04.449 [main] DEBUG tests.LoginTest - Application got opened
+23:46:04.972 [main] DEBUG tests.LoginTest - Username entered
+23:46:05.939 [main] DEBUG tests.LoginTest - Password entered
+23:46:06.113 [main] DEBUG tests.LoginTest - login button click 
+23:46:11.773 [main] DEBUG tests.LoginTest - Method get failed
+23:46:12.370 [main] DEBUG tests.LoginTest - Browser getting close
+23:58:54.941 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+23:58:57.127 [main] DEBUG tests.LoginTest - Application got opened
+23:58:57.763 [main] DEBUG tests.LoginTest - Username entered
+23:58:58.210 [main] DEBUG tests.LoginTest - Password entered
+23:58:58.389 [main] DEBUG tests.LoginTest - login button click 
+23:58:59.480 [main] DEBUG tests.LoginTest - Test is Successful
+23:59:00.004 [main] DEBUG tests.LoginTest - Browser getting close
+23:59:02.521 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+23:59:04.886 [main] DEBUG tests.LoginTest - Application got opened
+23:59:05.446 [main] DEBUG tests.LoginTest - Username entered
+23:59:06.078 [main] DEBUG tests.LoginTest - Password entered
+23:59:06.227 [main] DEBUG tests.LoginTest - login button click 
+23:59:12.538 [main] DEBUG tests.LoginTest - Method get failed
+23:59:13.174 [main] DEBUG tests.LoginTest - Browser getting close
+23:09:13.156 [TestNG-tests-4] DEBUG tests.LoginTest - Chrome Browser got launched
+23:09:19.995 [TestNG-tests-4] DEBUG tests.LoginTest - Application got opened
+23:09:20.631 [TestNG-tests-4] DEBUG tests.LoginTest - Username entered
+23:09:27.219 [TestNG-tests-4] DEBUG tests.LoginTest - Password entered
+23:09:27.321 [TestNG-tests-4] DEBUG tests.LoginTest - login button click 
+23:09:27.827 [TestNG-tests-4] DEBUG tests.LoginTest - Test is Successful
+23:09:28.174 [TestNG-tests-4] DEBUG tests.LoginTest - Browser getting close
+23:09:29.890 [TestNG-tests-4] DEBUG tests.LoginTest - Chrome Browser got launched
+23:09:34.291 [TestNG-tests-4] DEBUG tests.LoginTest - Application got opened
+23:09:34.639 [TestNG-tests-4] DEBUG tests.LoginTest - Username entered
+23:09:34.751 [TestNG-tests-4] DEBUG tests.LoginTest - Password entered
+23:09:34.836 [TestNG-tests-4] DEBUG tests.LoginTest - login button click 
+23:09:40.266 [TestNG-tests-4] DEBUG tests.LoginTest - Method get failed
+23:09:40.630 [TestNG-tests-4] DEBUG tests.LoginTest - Browser getting close
+16:50:17.951 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+16:50:23.549 [main] DEBUG tests.LoginTest - Application got opened
+16:50:23.884 [main] DEBUG tests.LoginTest - Username entered
+16:50:23.977 [main] DEBUG tests.LoginTest - Password entered
+16:50:24.044 [main] DEBUG tests.LoginTest - login button click 
+16:50:24.651 [main] DEBUG tests.LoginTest - Test is Successful
+16:50:24.936 [main] DEBUG tests.LoginTest - Browser getting close
+16:50:26.661 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+16:50:30.800 [main] DEBUG tests.LoginTest - Application got opened
+16:50:31.140 [main] DEBUG tests.LoginTest - Username entered
+16:50:31.234 [main] DEBUG tests.LoginTest - Password entered
+16:50:31.293 [main] DEBUG tests.LoginTest - login button click 
+16:50:36.721 [main] DEBUG tests.LoginTest - Method get failed
+16:50:37.077 [main] DEBUG tests.LoginTest - Browser getting close
+16:54:21.478 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+16:54:26.020 [main] DEBUG tests.LoginTest - Application got opened
+16:54:26.598 [main] DEBUG tests.LoginTest - Username entered
+16:54:26.782 [main] DEBUG tests.LoginTest - Password entered
+16:54:26.907 [main] DEBUG tests.LoginTest - login button click 
+16:54:27.704 [main] DEBUG tests.LoginTest - Test is Successful
+16:54:28.262 [main] DEBUG tests.LoginTest - Browser getting close
+16:54:30.857 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+16:54:35.102 [main] DEBUG tests.LoginTest - Application got opened
+16:54:35.675 [main] DEBUG tests.LoginTest - Username entered
+16:54:35.867 [main] DEBUG tests.LoginTest - Password entered
+16:54:35.984 [main] DEBUG tests.LoginTest - login button click 
+16:54:41.579 [main] DEBUG tests.LoginTest - Method get failed
+16:54:42.109 [main] DEBUG tests.LoginTest - Browser getting close
+17:01:16.000 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+17:01:21.413 [main] DEBUG tests.LoginTest - Application got opened
+17:01:21.997 [main] DEBUG tests.LoginTest - Username entered
+17:01:22.150 [main] DEBUG tests.LoginTest - Password entered
+17:01:22.277 [main] DEBUG tests.LoginTest - login button click 
+17:01:23.279 [main] DEBUG tests.LoginTest - Test is Successful
+17:01:23.893 [main] DEBUG tests.LoginTest - Browser getting close
+17:01:26.597 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+17:01:31.152 [main] DEBUG tests.LoginTest - Application got opened
+17:01:31.669 [main] DEBUG tests.LoginTest - Username entered
+17:01:31.852 [main] DEBUG tests.LoginTest - Password entered
+17:01:31.987 [main] DEBUG tests.LoginTest - login button click 
+17:01:37.634 [main] DEBUG tests.LoginTest - Method get failed
+17:01:38.241 [main] DEBUG tests.LoginTest - Browser getting close
+17:24:18.565 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+17:24:23.748 [main] DEBUG tests.LoginTest - Application got opened
+17:24:24.376 [main] DEBUG tests.LoginTest - Username entered
+17:24:24.574 [main] DEBUG tests.LoginTest - Password entered
+17:24:24.708 [main] DEBUG tests.LoginTest - login button click 
+17:24:25.615 [main] DEBUG tests.LoginTest - Test is Successful
+17:24:26.221 [main] DEBUG tests.LoginTest - Browser getting close
+17:24:28.884 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+17:24:33.175 [main] DEBUG tests.LoginTest - Application got opened
+17:24:33.680 [main] DEBUG tests.LoginTest - Username entered
+17:24:33.889 [main] DEBUG tests.LoginTest - Password entered
+17:24:34.047 [main] DEBUG tests.LoginTest - login button click 
+17:24:39.736 [main] DEBUG tests.LoginTest - Method get failed
+17:24:40.352 [main] DEBUG tests.LoginTest - Browser getting close
+17:27:30.770 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+17:27:35.485 [main] DEBUG tests.LoginTest - Application got opened
+17:27:36.053 [main] DEBUG tests.LoginTest - Username entered
+17:27:36.239 [main] DEBUG tests.LoginTest - Password entered
+17:27:36.409 [main] DEBUG tests.LoginTest - login button click 
+17:27:37.207 [main] DEBUG tests.LoginTest - Test is Successful
+17:27:37.765 [main] DEBUG tests.LoginTest - Browser getting close
+17:27:40.258 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+17:27:44.404 [main] DEBUG tests.LoginTest - Application got opened
+17:27:44.871 [main] DEBUG tests.LoginTest - Username entered
+17:27:45.070 [main] DEBUG tests.LoginTest - Password entered
+17:27:45.198 [main] DEBUG tests.LoginTest - login button click 
+17:27:50.837 [main] DEBUG tests.LoginTest - Method get failed
+17:27:51.541 [main] DEBUG tests.LoginTest - Browser getting close
+17:29:33.940 [main] DEBUG tests.LoginTest - Chrome Browser got launched
+17:29:38.066 [main] DEBUG tests.LoginTest - Application got opened
+17:29:38.676 [main] DEBUG tests.LoginTest - Username entered
+17:29:38.886 [main] DEBUG tests.LoginTest - Password entered
+17:29:39.017 [main] DEBUG tests.LoginTest - login button click 
+17:29:39.754 [main] DEBUG tests.LoginTest - Test is Successful
+17:29:40.352 [main] DEBUG tests.LoginTest - Browser getting close
+17:29:43.026 [main] DEBUG tests.LoginTest - Chrome Browser got launched
