@@ -14,6 +14,8 @@ public class FourTest extends Base1 {
 	public WebDriver driver;
 	@Test
 	public void fourTest() throws IOException, InterruptedException {
+		
+		System.out.println("this is new code which is written by Amol Mahajan");
 
 		driver = InitialiseBrowser();
 		driver.get("https://www.flipkart.com/");
