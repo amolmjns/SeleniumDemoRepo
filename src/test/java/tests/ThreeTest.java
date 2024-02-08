@@ -13,6 +13,8 @@ public class ThreeTest extends Base1 {
 	public void threeTest() throws IOException, InterruptedException {
 
 		System.out.println("this is new code which is written by Jagruti Mahajan");
+		
+		System.out.println("This is Dbranch code which is written by Amol.");
 
 		driver = InitialiseBrowser();
 		driver.get("https://www.amazon.in/");
